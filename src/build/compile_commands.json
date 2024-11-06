@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/MyExecutable.dir/main.cpp.o -c /Users/alexandrshain/cpp/quasi-one-dimensional/src/main.cpp",
+  "file": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/main.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/MyExecutable.dir/ChannelInputData.cpp.o -c /Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelInputData.cpp",
+  "file": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelInputData.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/ChannelInputData.cpp.o"
+},
+{
+  "directory": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/MyExecutable.dir/ChannelOutputData.cpp.o -c /Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelOutputData.cpp",
+  "file": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelOutputData.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/ChannelOutputData.cpp.o"
+},
+{
+  "directory": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/MyExecutable.dir/ChannelParametersReader.cpp.o -c /Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelParametersReader.cpp",
+  "file": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelParametersReader.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/ChannelParametersReader.cpp.o"
+},
+{
+  "directory": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/MyExecutable.dir/ChannelSolver.cpp.o -c /Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelSolver.cpp",
+  "file": "/Users/alexandrshain/cpp/quasi-one-dimensional/src/ChannelSolver.cpp",
+  "output": "CMakeFiles/MyExecutable.dir/ChannelSolver.cpp.o"
+}
+]

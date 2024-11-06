@@ -1,0 +1,3 @@
+/Users/alexandrshain/cpp/quasi-one-dimensional/src/build/CMakeFiles/MyExecutable.dir
+/Users/alexandrshain/cpp/quasi-one-dimensional/src/build/CMakeFiles/edit_cache.dir
+/Users/alexandrshain/cpp/quasi-one-dimensional/src/build/CMakeFiles/rebuild_cache.dir
